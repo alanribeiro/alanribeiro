@@ -3,7 +3,7 @@
 👦🏾 &nbsp;Hi! I'm a Front-End Web/Mobile Developer who loves to solve problems.
 
 - 💻 &nbsp;Currently working with React/React Native.
-- 💛 &nbsp;JavaScript Lover.
+- 💛 &nbsp;In love with JavaScript.
 - 👨🏾‍💻 &nbsp;Also experienced with Back-End development.
 - 👨🏾‍🎓 &nbsp;Bachelor of Digital Design.
 - 🏠 &nbsp;Brazil.
