@@ -1,12 +1,12 @@
-### Alan Ribeiro 👨🏾‍💻
+### Alan Ribeiro
 
-👦🏾 &nbsp;Hi! I'm a Front-End Web/Mobile Developer who loves to solve problems.
+Hi! I'm a Front-End Web/Mobile Developer who loves to solve problems.
 
 - 💻 &nbsp;Currently working with React/React Native.
 - 💛 &nbsp;In love with JavaScript.
-- 👨🏾‍💻 &nbsp;Also experienced with Back-End development.
-- 👨🏾‍🎓 &nbsp;Bachelor of Digital Design.
-- 🏠 &nbsp;Brazil.
+- :man_technologist: &nbsp;Also experienced with Back-End development.
+- :man_student: &nbsp;Bachelor of Digital Design.
+- :house: &nbsp;Brazil.
 
 You can find me at:
 
