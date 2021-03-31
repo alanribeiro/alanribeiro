@@ -2,7 +2,7 @@
 
 Hi! I'm a Front-End Web/Mobile Developer who loves to solve problems.
 
-- 💻 &nbsp;Currently working with React/React Native.
+- 💻 &nbsp;Currently working with React/React Native and Angular.
 - 💛 &nbsp;In love with JavaScript.
 - :man_technologist: &nbsp;Also experienced with Back-End development.
 - :man_student: &nbsp;Bachelor of Digital Design.
