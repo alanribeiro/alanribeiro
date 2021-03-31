@@ -1,6 +1,6 @@
 ### Alan Ribeiro
 
-Hi! I'm a Front-End Web/Mobile Developer who loves to solve problems.
+Front-End Web/Mobile Developer who loves to solve problems.
 
 - 💻 &nbsp;Currently working with React/React Native and Angular.
 - 💛 &nbsp;In love with JavaScript.
