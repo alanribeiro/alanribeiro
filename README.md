@@ -5,7 +5,7 @@ Front-End Web/Mobile Developer who loves to solve problems.
 - 💻 &nbsp;Currently working with React/React Native and Angular.
 - 💛 &nbsp;In love with JavaScript.
 - :man_technologist: &nbsp;Also experienced with Back-End development.
-- :man_student: &nbsp;Bachelor of Digital Design.
+- :man_student: &nbsp;Bachelor's degree in Digital Design.
 - :house: &nbsp;Brazil.
 
 You can find me at:
