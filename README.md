@@ -1,6 +1,6 @@
 ### Alan Ribeiro
 
-Front-End Web/Mobile Engineer who loves to solve problems.
+Frontend Engineer Web/Mobile who loves to solve problems.
 
 - 💻 &nbsp;Currently working with React/React Native and Angular.
 - 💛 &nbsp;In love with JavaScript.
