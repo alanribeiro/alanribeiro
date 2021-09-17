@@ -2,7 +2,6 @@
 
 Frontend Engineer Web/Mobile who loves to solve problems.
 
-- 💻 &nbsp;Currently working with React/React Native and Angular.
 - 💛 &nbsp;In love with JavaScript.
 - :man_technologist: &nbsp;Also experienced with Back-End development.
 - :man_student: &nbsp;Bachelor's degree in Digital Design.
