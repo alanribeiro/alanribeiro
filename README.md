@@ -38,5 +38,4 @@ You can find me at:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanribeirodsantos@gmail.com)](mailto:alanribeirodsantos@gmail.com)
 &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanribeirodsantos/)](https://www.linkedin.com/in/alanribeirodsantos/)
-&nbsp;[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/alanribeirodsantos)
 
