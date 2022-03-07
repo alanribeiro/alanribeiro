@@ -2,13 +2,6 @@
 
 Frontend Engineer who loves to solve problems.
 
-- 💛 &nbsp;In love with JavaScript.
-- :man_technologist: &nbsp;Also experienced with Backend development.
-- :man_student: &nbsp;Bachelor's degree in Digital Design.
-- :house: &nbsp;London, UK.
-
-
-
 Languages:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
