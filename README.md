@@ -6,7 +6,6 @@ Languages:
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 &nbsp;![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-&nbsp;![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Frameworks:
 
@@ -14,7 +13,6 @@ Frameworks:
 &nbsp;![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-squaree&logo=angular&logoColor=white)
 &nbsp;![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 &nbsp;![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-&nbsp;![Ionic Badge](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 &nbsp;![Node Badge](https://img.shields.io/badge/Node.js-339933?style=flat-squaree&logo=nodedotjs&logoColor=white)
 
 Database:
